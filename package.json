@@ -14,7 +14,7 @@
     "clsx": "^2.1.1",
     "lucide-react": "^0.482.0",
     "next": "15.2.2",
-    "pdfjs-dist": "^5.2.133",
+    "pdf-lib": "^1.17.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-resizable-panels": "^3.0.2",
